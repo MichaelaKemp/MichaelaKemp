@@ -24,7 +24,7 @@ My work includes mobile apps, AI-powered tools, and full-stack projects that foc
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/google_maps/google_maps-icon.svg" width="40"/>
-  <img src="openai-logo"/>
+  <img src="/assets/OpenAI-logo.png" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
 </p>
 
@@ -39,8 +39,10 @@ I’ve included short summaries here, with detailed documentation in the linked 
 
 ## **MOX — Modern Project & Task Management App**
 
+<br />
+
 <p align="center">
-  <img src="mox-logo" width="140"/>
+  <img src="/assets/Mox-logo.svg" width="140"/>
 </p>
 
 ### [🔗 View Repository](https://github.com/Rynoo1/MoxBackend.git)
@@ -72,8 +74,10 @@ It includes a **React + Electron frontend** and a **.NET + PostgreSQL backend**,
 
 ## **ThinkTank — Interactive Aquarium Builder & Manager**
 
+<br />
+
 <p align="center">
-  <img src="think-tank-logo" width="140"/>
+  <img src="/assets/ThinkTank-logo.png" width="140"/>
 </p>
 
 ### [🔗 View Repository](https://github.com/MichaelaKemp/think-tank.git)
@@ -106,8 +110,10 @@ It supports freshwater and saltwater modes, drag-and-drop fish placement, enviro
 
 ## **EyesOnZA — Community Safety & AI-Powered Incident Reporting**
 
+<br />
+
 <p align="center">
-  <img src="eyesonza-logo" width="140"/>
+  <img src="/assets/EyesOnZA-logo.png" width="140"/>
 </p>
 
 ### [🔗 View Repository](https://github.com/MichaelaKemp/EyesOnZA-fixed.git)
